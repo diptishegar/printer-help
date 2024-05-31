@@ -1,0 +1,95 @@
+.icon_div{
+    background-color: white;
+    border-radius: 5px;
+    height: 52% !important;
+    width: 320px;
+    color: black !important;
+    position: static;
+    padding: 11px 15px;
+}
+
+
+.create_new_div{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    position: sticky;
+}
+
+.inner_icon_div{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+}
+
+.form_div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.icon_plus{
+    color: black;
+    padding: 10px 5px 5px 5px;
+    font-size: 2rem;
+}
+
+.input_field{
+    background-color: darkgray;
+    border: 2px solid olivedrab;
+    margin: 5px 0px 5px 0px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.buttons_style{
+padding: 4px 10px;
+background-color: olive;
+color: white;
+margin-top: 3px;
+border-radius: 5px;
+shape-outside: none !important;
+box-shadow: none;
+}
+
+.icon_div_result{
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: white !important;
+    padding-left: 2rem;
+    color: black;
+}
+
+.result_h6{
+    margin: 7px;
+}
+
+.inner_icon_div_result {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+    overflow-x: scroll;
+    width: 250px !important;
+
+}
+
+.span_copy{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap !important;
+    align-content: stretch;
+    justify-content: flex-start;
+    align-items: baseline;
+    margin-bottom: 5px !important;
+    font-size: 22px;
+
+}
+
+.extra{
+    width: 320px;
+}

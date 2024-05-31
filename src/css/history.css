@@ -1,0 +1,7 @@
+.span_copy {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 5px;
+}
